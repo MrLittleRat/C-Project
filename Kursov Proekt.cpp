@@ -1,5 +1,3 @@
-// Kursov Proekt.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
 #include <iostream>
 #include <vector>
 #include <string>
@@ -601,4 +599,5 @@ void menu() {
 int main()
 {
     menu();
+
 }
